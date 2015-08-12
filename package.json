@@ -1,0 +1,15 @@
+{
+  "name": "promise-chain",
+  "version": "1.0.0",
+  "description": "A function that takes an Array of arguments, and a function that returns a promise, and executes sequentially that function with arguments from the Array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promises",
+    "chain"
+  ],
+  "author": "Antonis Karamitros @antouankar",
+  "license": "ISC"
+}
